@@ -1,4 +1,4 @@
-# Taller de TDD - Pruebas Unitarias
+# Taller de TDD - Pruebas Unitarias - REALIZADO por MAOSUAREZ
 
 Este taller adapta el enfoque clásico de **TDD** (Red → Green → Refactor) a una **Arquitectura Limpia (Clean Architecture)**. El objetivo es que las **pruebas unitarias** garanticen la calidad del **dominio** sin acoplarse a frameworks o infraestructura.
 
